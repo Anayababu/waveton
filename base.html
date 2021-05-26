@@ -1,0 +1,21 @@
+{% load static %}
+<html>
+    <head>
+
+        <title>tinker</title>
+        <style>
+            body{
+                background-image: url({% static "mm.jpg" %});
+                font-family: sans-serif; 
+                background-size: cover;
+                background-attachment: fixed;
+                text-align: center;
+              }
+        </style>
+    </head>
+    <body>
+        {% block content %}
+
+        {% endblock %}
+    </body>
+</html>
