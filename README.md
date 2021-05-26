@@ -13,6 +13,9 @@ The team which worked behind the project is Waveton and the team members are Ale
 
 ## MATERIALS USED FOR REFFEREN
 https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+
 https://stackoverflow.com/questions/43429710/graphic-equalizer
+
 https://www.w3schools.com/python/python_reference.asp
+
 https://youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau
